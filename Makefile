@@ -2,11 +2,11 @@ PROJECT_NAME = Team
 
 BUILD = build
 
-SRC = src/calculator_operations.c\
+SRC = src/calculator.c\
 main.c\
 
-TEST_SRC = src/calculator_operations.c\
-test/test_calculator_operations.c\
+TEST_SRC = src/calculator.c\
+test/test_calculator.c\
 
 INC = -Iinc\
 
