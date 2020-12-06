@@ -31,7 +31,7 @@ int main() {
 
   CU_add_test(suite, "TEST_SUM", test_sum);
   CU_add_test(suite, "TEST_SUB", test_sub);
-  CU_add_test(suite, "TEST_MUL", test_mul;
+  CU_add_test(suite, "TEST_MUL", test_mul);
   CU_add_test(suite, "TEST_SQUAREROOT", test_squareroot);
   CU_add_test(suite, "TEST_FAHRENHEIT_TO_CELSIUS", test_fahrenheit_to_celsius);
   CU_add_test(suite, "TEST_CELSIUS_TO_FAHRENHEIT", test_celsius_to_fahrenheit);
